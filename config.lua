@@ -1,6 +1,6 @@
 Config = {
     Debug = false,
-    Framework = "esx", -- esx or qb
+    Framework = "qb", -- esx or qb
     Align = "bottom-right", -- menu alignment (esx)
     Command = "keys", -- false to disable
     Keybind = "PAGEUP", -- false to disable, requires command

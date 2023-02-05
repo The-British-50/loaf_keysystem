@@ -7,7 +7,7 @@ author "Loaf Scripts#7785"
 
 shared_script "config.lua"
 server_script {
-    "@mysql-async/lib/MySQL.lua",
+    --"@mysql-async/lib/MySQL.lua",
     "@oxmysql/lib/MySQL.lua",
     "logs.lua",
     "server/*.lua"
